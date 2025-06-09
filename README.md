@@ -1,4 +1,3 @@
-
 # Real-Time Chat Platform
 
 Welcome to a full-stack real-time chat platform designed for seamless and instant communication. Built using modern technologies, this application enables users to engage in private and group conversations with real-time updates and intuitive features.
